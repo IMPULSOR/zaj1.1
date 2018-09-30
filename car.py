@@ -1,4 +1,5 @@
 car = input('Serwis Mercedesa: ')
+car = int(car)
 rent = input('Apartament w śródmieściu: ')
 jet = input('Wynajem prywatnego samolotu: ')
 gifts = input('Podarunki: ')
