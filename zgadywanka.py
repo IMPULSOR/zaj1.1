@@ -1,5 +1,5 @@
 import random
-liczba = random.randint(1, 10)
+liczba = random.randint(1, 49)
 #print('Wylosowana liczba: ', liczba)
 
 for i in range(6):
@@ -8,6 +8,10 @@ for i in range(6):
     if liczba == int(odp):
         print('Hura !!!!')
         break
+    elif int(odp)>liczba:
+        print('Podana liczba jest za duża.')
+    elif int(odp)<liczba:
+        print('Podana liczba jest za mała.')
     elif i==5:
         print('Wylosowano: ', liczba)
     else:
