@@ -8,11 +8,11 @@ for i in range(6):
     if liczba == int(odp):
         print('Hura !!!!')
         break
+    elif i==5:
+        print('No niestety')
+        print('Wylosowano: ', liczba)
     elif int(odp)>liczba:
         print('Podana liczba jest za duża.')
     elif int(odp)<liczba:
         print('Podana liczba jest za mała.')
-    elif i==5:
-        print('Wylosowano: ', liczba)
-    else:
-        print('No niestety')
+
