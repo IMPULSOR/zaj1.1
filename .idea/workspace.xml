@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8cfe080e-e940-4e5f-bd87-51389a652365" name="Default Changelist" comment="" />
+    <list default="true" id="8cfe080e-e940-4e5f-bd87-51389a652365" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/zgadywanka.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,6 +13,7 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/python$zadanie1.coverage" NAME="zadanie1 Coverage Results" MODIFIED="1538293864251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$pobieraniedanych.coverage" NAME="pobieraniedanych Coverage Results" MODIFIED="1538291952740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$przyklad1.coverage" NAME="przyklad1 Coverage Results" MODIFIED="1538295212661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$zadanie2.coverage" NAME="zadanie2 Coverage Results" MODIFIED="1538294258915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$car.coverage" NAME="car Coverage Results" MODIFIED="1538293344677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$lancuchznakow.coverage" NAME="lancuchznakow Coverage Results" MODIFIED="1538291976441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -26,33 +29,42 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="7" />
+          <entry key="py" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="7" />
+          <entry key="Python" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="1290" />
+          <entry key="py" value="1301" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="1290" />
+          <entry key="Python" value="1301" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/zadanie3.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/przyklad1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+            <state>
+              <caret selection-end-line="2" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/zgadywanka.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -72,6 +84,8 @@
         <option value="$PROJECT_DIR$/zadanie1.py" />
         <option value="$PROJECT_DIR$/zadanie2.py" />
         <option value="$PROJECT_DIR$/zadanie3.py" />
+        <option value="$PROJECT_DIR$/przyklad1.py" />
+        <option value="$PROJECT_DIR$/zgadywanka.py" />
       </list>
     </option>
   </component>
@@ -125,7 +139,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.zadanie3">
+  <component name="RunManager" selected="Python.przyklad1">
     <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -216,7 +230,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lancuchznakow" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="przyklad1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -229,7 +243,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lancuchznakow.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/przyklad1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -424,19 +438,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.lancuchznakow" />
       <item itemvalue="Python.car" />
       <item itemvalue="Python.zadanie1" />
       <item itemvalue="Python.zadanie2" />
       <item itemvalue="Python.zadanie3" />
+      <item itemvalue="Python.przyklad1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.przyklad1" />
         <item itemvalue="Python.zadanie3" />
         <item itemvalue="Python.zadanie2" />
         <item itemvalue="Python.zadanie1" />
         <item itemvalue="Python.car" />
-        <item itemvalue="Python.lancuchznakow" />
       </list>
     </recent_temporary>
   </component>
@@ -455,6 +469,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="800" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
@@ -533,6 +548,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/przyklad1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="2" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zgadywanka.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
         </state>
       </provider>
     </entry>
