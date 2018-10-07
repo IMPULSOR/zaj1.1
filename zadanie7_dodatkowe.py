@@ -1,4 +1,4 @@
-plik = open("/Users/piotrglazer/Downloads/tekst.txt")
+plik = open("/")
 zawartosc_pliku = plik.read()
 #print(zawartosc_pliku)
 
