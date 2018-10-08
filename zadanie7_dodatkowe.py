@@ -1,4 +1,4 @@
-plik = open("/")
+plik = open("/Users/piotrglazer/Downloads/wyjscie.txt")
 zawartosc_pliku = plik.read()
 #print(zawartosc_pliku)
 
